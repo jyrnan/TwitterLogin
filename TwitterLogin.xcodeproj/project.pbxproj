@@ -17,6 +17,38 @@
 		D2B971EF277FE5AF00029006 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B971C5277FE5AE00029006 /* ContentView.swift */; };
 		D2B971F0277FE5AF00029006 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2B971C6277FE5AF00029006 /* Assets.xcassets */; };
 		D2B971F1277FE5AF00029006 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D2B971C6277FE5AF00029006 /* Assets.xcassets */; };
+		D2B97201277FE6D200029006 /* Swifter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B97200277FE6D200029006 /* Swifter.swift */; };
+		D2B97202277FE6D200029006 /* Swifter.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B97200277FE6D200029006 /* Swifter.swift */; };
+		D2B972042780203E00029006 /* SwifterCredential.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972032780203E00029006 /* SwifterCredential.swift */; };
+		D2B972052780203E00029006 /* SwifterCredential.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972032780203E00029006 /* SwifterCredential.swift */; };
+		D2B972072780220D00029006 /* SwifterError.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972062780220D00029006 /* SwifterError.swift */; };
+		D2B972082780220D00029006 /* SwifterError.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972062780220D00029006 /* SwifterError.swift */; };
+		D2B9720A2780225900029006 /* SwifterClientProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972092780225900029006 /* SwifterClientProtocol.swift */; };
+		D2B9720B2780225900029006 /* SwifterClientProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972092780225900029006 /* SwifterClientProtocol.swift */; };
+		D2B9720D278023AE00029006 /* SwifterOAuthClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9720C278023AE00029006 /* SwifterOAuthClient.swift */; };
+		D2B9720E278023AE00029006 /* SwifterOAuthClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9720C278023AE00029006 /* SwifterOAuthClient.swift */; };
+		D2B972102780247400029006 /* SwifterHTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9720F2780247400029006 /* SwifterHTTPRequest.swift */; };
+		D2B972112780247400029006 /* SwifterHTTPRequest.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9720F2780247400029006 /* SwifterHTTPRequest.swift */; };
+		D2B97213278024DD00029006 /* String++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B97212278024DD00029006 /* String++.swift */; };
+		D2B97214278024DD00029006 /* String++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B97212278024DD00029006 /* String++.swift */; };
+		D2B972162780270F00029006 /* Operator++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972152780270F00029006 /* Operator++.swift */; };
+		D2B972172780270F00029006 /* Operator++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972152780270F00029006 /* Operator++.swift */; };
+		D2B972192780293800029006 /* Dictionary++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972182780293800029006 /* Dictionary++.swift */; };
+		D2B9721A2780293800029006 /* Dictionary++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B972182780293800029006 /* Dictionary++.swift */; };
+		D2B9721C2780296400029006 /* HMAC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9721B2780296400029006 /* HMAC.swift */; };
+		D2B9721D2780296400029006 /* HMAC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9721B2780296400029006 /* HMAC.swift */; };
+		D2B9721F2780297D00029006 /* URL++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9721E2780297D00029006 /* URL++.swift */; };
+		D2B972202780297D00029006 /* URL++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9721E2780297D00029006 /* URL++.swift */; };
+		D2B97222278029A100029006 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B97221278029A000029006 /* JSON.swift */; };
+		D2B97223278029A100029006 /* JSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B97221278029A000029006 /* JSON.swift */; };
+		D2B9722727802DA300029006 /* Data++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722627802DA300029006 /* Data++.swift */; };
+		D2B9722827802DA300029006 /* Data++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722627802DA300029006 /* Data++.swift */; };
+		D2B9722A27802DC800029006 /* Scanner++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722927802DC800029006 /* Scanner++.swift */; };
+		D2B9722B27802DC800029006 /* Scanner++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722927802DC800029006 /* Scanner++.swift */; };
+		D2B9722D27802DE700029006 /* SHA1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722C27802DE700029006 /* SHA1.swift */; };
+		D2B9722E27802DE700029006 /* SHA1.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722C27802DE700029006 /* SHA1.swift */; };
+		D2B9723027802E0300029006 /* Int++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722F27802E0300029006 /* Int++.swift */; };
+		D2B9723127802E0300029006 /* Int++.swift in Sources */ = {isa = PBXBuildFile; fileRef = D2B9722F27802E0300029006 /* Int++.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +81,23 @@
 		D2B971E4277FE5AF00029006 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D2B971E8277FE5AF00029006 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		D2B971EA277FE5AF00029006 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		D2B97200277FE6D200029006 /* Swifter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swifter.swift; sourceTree = "<group>"; };
+		D2B972032780203E00029006 /* SwifterCredential.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterCredential.swift; sourceTree = "<group>"; };
+		D2B972062780220D00029006 /* SwifterError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterError.swift; sourceTree = "<group>"; };
+		D2B972092780225900029006 /* SwifterClientProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterClientProtocol.swift; sourceTree = "<group>"; };
+		D2B9720C278023AE00029006 /* SwifterOAuthClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterOAuthClient.swift; sourceTree = "<group>"; };
+		D2B9720F2780247400029006 /* SwifterHTTPRequest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwifterHTTPRequest.swift; sourceTree = "<group>"; };
+		D2B97212278024DD00029006 /* String++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "String++.swift"; sourceTree = "<group>"; };
+		D2B972152780270F00029006 /* Operator++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Operator++.swift"; sourceTree = "<group>"; };
+		D2B972182780293800029006 /* Dictionary++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Dictionary++.swift"; sourceTree = "<group>"; };
+		D2B9721B2780296400029006 /* HMAC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HMAC.swift; sourceTree = "<group>"; };
+		D2B9721E2780297D00029006 /* URL++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "URL++.swift"; sourceTree = "<group>"; };
+		D2B97221278029A000029006 /* JSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JSON.swift; sourceTree = "<group>"; };
+		D2B9722527802C2B00029006 /* TwitterLogin--iOS--Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = "TwitterLogin--iOS--Info.plist"; sourceTree = "<group>"; };
+		D2B9722627802DA300029006 /* Data++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Data++.swift"; sourceTree = "<group>"; };
+		D2B9722927802DC800029006 /* Scanner++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Scanner++.swift"; sourceTree = "<group>"; };
+		D2B9722C27802DE700029006 /* SHA1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SHA1.swift; sourceTree = "<group>"; };
+		D2B9722F27802E0300029006 /* Int++.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Int++.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +135,7 @@
 		D2B971BE277FE5AD00029006 = {
 			isa = PBXGroup;
 			children = (
+				D2B9722527802C2B00029006 /* TwitterLogin--iOS--Info.plist */,
 				D2B971C3277FE5AE00029006 /* Shared */,
 				D2B971D2277FE5AF00029006 /* macOS */,
 				D2B971DB277FE5AF00029006 /* Tests iOS */,
@@ -99,6 +149,7 @@
 			children = (
 				D2B971C4277FE5AE00029006 /* TwitterLoginApp.swift */,
 				D2B971C5277FE5AE00029006 /* ContentView.swift */,
+				D2B9722427802BA400029006 /* Swifter */,
 				D2B971C6277FE5AF00029006 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -139,6 +190,29 @@
 				D2B971EA277FE5AF00029006 /* Tests_macOSLaunchTests.swift */,
 			);
 			path = "Tests macOS";
+			sourceTree = "<group>";
+		};
+		D2B9722427802BA400029006 /* Swifter */ = {
+			isa = PBXGroup;
+			children = (
+				D2B97200277FE6D200029006 /* Swifter.swift */,
+				D2B972032780203E00029006 /* SwifterCredential.swift */,
+				D2B972062780220D00029006 /* SwifterError.swift */,
+				D2B972092780225900029006 /* SwifterClientProtocol.swift */,
+				D2B9720C278023AE00029006 /* SwifterOAuthClient.swift */,
+				D2B9720F2780247400029006 /* SwifterHTTPRequest.swift */,
+				D2B97212278024DD00029006 /* String++.swift */,
+				D2B972152780270F00029006 /* Operator++.swift */,
+				D2B972182780293800029006 /* Dictionary++.swift */,
+				D2B9721B2780296400029006 /* HMAC.swift */,
+				D2B9721E2780297D00029006 /* URL++.swift */,
+				D2B97221278029A000029006 /* JSON.swift */,
+				D2B9722627802DA300029006 /* Data++.swift */,
+				D2B9722927802DC800029006 /* Scanner++.swift */,
+				D2B9722C27802DE700029006 /* SHA1.swift */,
+				D2B9722F27802E0300029006 /* Int++.swift */,
+			);
+			path = Swifter;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -299,8 +373,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2B9721F2780297D00029006 /* URL++.swift in Sources */,
+				D2B97222278029A100029006 /* JSON.swift in Sources */,
+				D2B972102780247400029006 /* SwifterHTTPRequest.swift in Sources */,
+				D2B972162780270F00029006 /* Operator++.swift in Sources */,
+				D2B9721C2780296400029006 /* HMAC.swift in Sources */,
+				D2B9720D278023AE00029006 /* SwifterOAuthClient.swift in Sources */,
 				D2B971EE277FE5AF00029006 /* ContentView.swift in Sources */,
+				D2B9722D27802DE700029006 /* SHA1.swift in Sources */,
+				D2B97213278024DD00029006 /* String++.swift in Sources */,
+				D2B972042780203E00029006 /* SwifterCredential.swift in Sources */,
 				D2B971EC277FE5AF00029006 /* TwitterLoginApp.swift in Sources */,
+				D2B9722A27802DC800029006 /* Scanner++.swift in Sources */,
+				D2B972072780220D00029006 /* SwifterError.swift in Sources */,
+				D2B9723027802E0300029006 /* Int++.swift in Sources */,
+				D2B97201277FE6D200029006 /* Swifter.swift in Sources */,
+				D2B9722727802DA300029006 /* Data++.swift in Sources */,
+				D2B9720A2780225900029006 /* SwifterClientProtocol.swift in Sources */,
+				D2B972192780293800029006 /* Dictionary++.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,8 +398,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D2B972202780297D00029006 /* URL++.swift in Sources */,
+				D2B97223278029A100029006 /* JSON.swift in Sources */,
+				D2B972112780247400029006 /* SwifterHTTPRequest.swift in Sources */,
+				D2B972172780270F00029006 /* Operator++.swift in Sources */,
+				D2B9721D2780296400029006 /* HMAC.swift in Sources */,
+				D2B9720E278023AE00029006 /* SwifterOAuthClient.swift in Sources */,
 				D2B971EF277FE5AF00029006 /* ContentView.swift in Sources */,
+				D2B9722E27802DE700029006 /* SHA1.swift in Sources */,
+				D2B97214278024DD00029006 /* String++.swift in Sources */,
+				D2B972052780203E00029006 /* SwifterCredential.swift in Sources */,
 				D2B971ED277FE5AF00029006 /* TwitterLoginApp.swift in Sources */,
+				D2B9722B27802DC800029006 /* Scanner++.swift in Sources */,
+				D2B972082780220D00029006 /* SwifterError.swift in Sources */,
+				D2B9723127802E0300029006 /* Int++.swift in Sources */,
+				D2B97202277FE6D200029006 /* Swifter.swift in Sources */,
+				D2B9722827802DA300029006 /* Data++.swift in Sources */,
+				D2B9720B2780225900029006 /* SwifterClientProtocol.swift in Sources */,
+				D2B9721A2780293800029006 /* Dictionary++.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -468,6 +574,7 @@
 				DEVELOPMENT_TEAM = FAL6NRZRQP;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "TwitterLogin--iOS--Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -498,6 +605,7 @@
 				DEVELOPMENT_TEAM = FAL6NRZRQP;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "TwitterLogin--iOS--Info.plist";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
